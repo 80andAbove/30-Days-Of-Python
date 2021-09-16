@@ -19,3 +19,10 @@ print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
+
+#### Test of my own ####
+
+print("hello" + "?" + str(4+3))
+print(int("7"))
+print(float("7.14"))
+
